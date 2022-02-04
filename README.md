@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+```python
+name = Carlos
+last_name = Gurrola
+age = 19
+
+def presentatiion(name,lastname):
+    if name == realname:
+        
+```
 <!--
 **Nand0Shid0/Nand0Shid0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
